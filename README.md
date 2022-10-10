@@ -1,6 +1,8 @@
-<img src="data/healthdata.jpg">
+<img src="data/healthdata.jpg">(www.linkedin.com/in/patelkhush)
 
-## Hi there 👋 I am Khush Patel, MD using machine learning to solve biomedical problems.
+## Hi there 👋 I am Khush Patel, MD.
+
+
 
 I have applied artificial intelligence and data science tools to solve some of the most challenging biomedical issues using the largest collection of brain MRI, the largest collection of electronic health records (EHR) data, the largest collection of retina imaging data (2D fundus and 3D OCT retina images), the largest genetic data, microscopy images text and structured data.
 
