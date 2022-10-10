@@ -1,4 +1,4 @@
-<img src="data/ai.gif" width="1080" height="420"/>
+<img src="data/healthdata.jpg">
 
 ### I am Khush Patel, MD, a data scientist and a physician leveraging clinical knowledge and deep learning to solve real-world biomedical challenges. 
 
