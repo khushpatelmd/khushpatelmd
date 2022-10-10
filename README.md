@@ -1,4 +1,4 @@
-![Health datascience](data/healthdata.jpg)(www.linkedin.com/in/patelkhush)
+![Health datascience](data/healthdata.jpg)
 
 ## Hi there 👋 I am Khush Patel, MD.
 
