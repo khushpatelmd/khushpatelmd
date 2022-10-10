@@ -1,5 +1,7 @@
-### Hi there 👋
+![Stable diffusion]() 
+*image generated using stable diffusion.
 
+# Hi there! I am Khush Patel, MD, a data scientist and physician leveraging clinical knowledge and deep learning to solve real-world biomedical challenges. 
 <!--
 **khushpatelmd/khushpatelmd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
