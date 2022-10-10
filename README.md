@@ -1,4 +1,4 @@
-![Stable diffusion](data/ai_eye.gif) 
+<img src="data/ai_eye.gif" width="350" height="250"/>
 
 ### I am Khush Patel, MD, a data scientist and a physician leveraging clinical knowledge and deep learning to solve real-world biomedical challenges. 
 
