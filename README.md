@@ -1,4 +1,4 @@
-![Stable diffusion](data/ai_healthcare.png) 
+![Stable diffusion](data/healthcare-ai-gif.gif) 
 
 ### I am Khush Patel, MD, a data scientist and a physician leveraging clinical knowledge and deep learning to solve real-world biomedical challenges. 
 
