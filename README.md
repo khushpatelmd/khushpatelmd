@@ -1,4 +1,4 @@
-<img src="data/ai_eye.gif" width="1000" height="250"/>
+<img src="data/ai.gif" width="1920" height="720"/>
 
 ### I am Khush Patel, MD, a data scientist and a physician leveraging clinical knowledge and deep learning to solve real-world biomedical challenges. 
 
