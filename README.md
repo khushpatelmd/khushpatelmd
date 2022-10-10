@@ -1,4 +1,4 @@
-![Stable diffusion]() 
+![Stable diffusion](data/github_profile_pic.png) 
 *image generated using stable diffusion.
 
 # Hi there! I am Khush Patel, MD, a data scientist and physician leveraging clinical knowledge and deep learning to solve real-world biomedical challenges. 
