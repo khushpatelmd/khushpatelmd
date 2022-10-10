@@ -1,4 +1,4 @@
-![Stable diffusion](data/github_profile_pic.png | width=100) 
+![Stable diffusion](data/ai_healthcare.jpg) 
 *image generated using stable diffusion.
 
 # Hi there! I am Khush Patel, MD, a data scientist and a physician leveraging clinical knowledge and deep learning to solve real-world biomedical challenges. I have applied machine learning and data science tools to solve some of the most challenging biomedical issues using the largest collection of brain MRI, the largest collection of electronic health records (EHR) data, the largest collection of retina imaging data (2D fundus and 3D OCT retina images), the largest genetic data, microscopy images text and structured data.
